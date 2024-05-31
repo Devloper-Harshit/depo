@@ -7,9 +7,6 @@ const connection = mysql.createConnection({
   // password: null, 
   // database: 'ocrdatabase' 
   
-  
-
-
 
 user: process.env.USER,
 host: process.env.DB_HOST,
